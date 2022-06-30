@@ -1,0 +1,21 @@
+* { 
+    font-family: 'Lato', sans-serif;
+}
+
+h1 {
+    font-weight: bolder;
+}
+
+.btn-primary {
+    background-color: aquamarine important;
+}
+
+#date {
+    color: black;
+    justify-content: center;
+}
+
+body {
+    background-color: rgb(246, 224, 227) ;
+   }
+
